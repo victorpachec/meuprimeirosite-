@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(167, 76, 228, 0.774);
+    line-height: 4;
+    background-image: url(../img/Brawl-Stars-tier-list-capa.webp);
+    background-repeat: center;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+header{
+    background-color: rgba(76, 168, 221, 0);
+    padding: 4px;
+    
+}
+
+/* classe atribuida para a div que vai receber o logo tipo */
+.logo{
+    background-color: rgba(89, 8, 218, 0);
+    left: 30%;
+    position: relative;
+    
+}
+
+nav{
+    background-color: rgb(147, 47, 228);
+}
+
+main{
+    background-color: rgb(43, 21, 240);
+    width: 80%;
+    margin: auto;
+}
+
+section{
+    background-color: rgba(182, 52, 214, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+footer{
+    background-color: rgba(142, 85, 233, 0);
+    padding: 3%;
+}
+
+.cabecalho{
+    padding: 3%;
+}
+.rodape{
+    padding: 3%;
+    
+}
+
+
+
