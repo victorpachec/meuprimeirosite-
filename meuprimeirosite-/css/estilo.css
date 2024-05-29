@@ -1,7 +1,7 @@
 body{
-    background-color: rgba(167, 76, 228, 0);
+    background-color: rgba(167, 76, 228, 0.774);
     line-height: 4;
-    background-image: url(../img/Brawl-Stars-tier-list-capa.webp);
+    background-image: url('../img/Era_uma_vez_um_Brawl_ep_5_completo.webp');
     background-repeat: center;
     background-size: cover;
     overflow-x: hidden;
@@ -10,58 +10,23 @@ body{
 header{
     background-color: rgba(76, 168, 221, 0);
     padding: 4px;
-    justify-content: space-between;
-    align-items: center;
-    display: flex;
-}
-
-.cabecalho{
-    padding: 3%;
-}
-
-.rodape{
-    padding: 3%;
     
 }
 
-/* h1,h2{
-    line-height: 3;
-} */
-
-.titulos{
-    line-height: 3;
-    text-align:center;
-    font-weight: bold;
-}
-
-h1{
-    font-size: 2em;
-}
-h2{
-    font-size: 1.5em;
-}
-
-p{
-    line-height: 1.5;
-    font-size: 1.2em;
-    text-align: justify;
-}
-
-/* CRIANDO O MENU */
-
-
 /* classe atribuida para a div que vai receber o logo tipo */
-.logo img {
-    height: 2%;
-    height: 2%;
+.logo{
+    background-color: rgba(89, 8, 218, 0);
+    left: 30%;
+    position: relative;
+    
 }
 
 nav{
-    background-color: rgba(147, 47, 228, 0);
+    background-color: rgb(147, 47, 228);
 }
 
 main{
-    background-color: rgba(43, 21, 240, 0);
+    background-color: rgb(43, 21, 240);
     width: 80%;
     margin: auto;
 }
@@ -69,9 +34,6 @@ main{
 section{
     background-color: rgba(182, 52, 214, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: orangered;
-    
-    
 
 }
 
@@ -80,22 +42,13 @@ footer{
     padding: 3%;
 }
 
-
-
-.caixa imagem{
-    text-align: center;
-    margin: 1%;
+.cabecalho{
+    padding: 3%;
+}
+.rodape{
+    padding: 3%;
+    
 }
 
-figure img{
-    display: block;
-    margin: 0%auto;
-    max-height: 100%;
 
-}
 
-figure-figcaption{
-  margin: 1.0em;
-  text-align: center;
-  color: aqua;
-}
