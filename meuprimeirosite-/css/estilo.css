@@ -1,7 +1,7 @@
 body{
     background-color: rgba(167, 76, 228, 0.774);
     line-height: 4;
-    background-image: url('../img/Era_uma_vez_um_Brawl_ep_5_completo.webp');
+    background-image: url(../img/Brawl-Stars-tier-list-capa.webp);
     background-repeat: center;
     background-size: cover;
     overflow-x: hidden;
@@ -22,11 +22,11 @@ header{
 }
 
 nav{
-    background-color: rgb(147, 47, 228);
+    background-color: rgba(147, 47, 228, 0);
 }
 
 main{
-    background-color: rgb(43, 21, 240);
+    background-color: rgba(43, 21, 240, 0);
     width: 80%;
     margin: auto;
 }
@@ -50,5 +50,37 @@ footer{
     
 }
 
+.titulos{
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+}
 
+h1{
+    font-size: 2em;
+}
+h2{
+    font-size: 1.5em;
+}
+
+p{
+    line-height: 1.5;
+    font-size: 1.2em;
+    text-align: justify;
+}
+h1,h2,p,li{
+color: cornsilk;
+
+}
+
+figure {
+    text-align: center;
+    display: inline-block;    
+}
+
+figure figcaption{
+    margin: 1.0em;    
+    text-align: center;
+    color: gold;
+}
 
